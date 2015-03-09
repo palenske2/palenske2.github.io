@@ -1,0 +1,11 @@
+body {
+  color: green;
+  font-size: 3ms; }
+
+.first {
+  color: blue; }
+
+p {
+  color: red;
+  float: left;
+  width: calc(100%/3); }
