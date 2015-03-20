@@ -12,7 +12,7 @@ body {
 	margin: 0px;
 	font-family: 'Open Sans', sans-serif;
 	font-family: 'Vollkorn', serif;
-	color: #2F343A;
+	/*color: #2F343A;*/
 }
 ul {
 	margin-top: 0px;
@@ -20,7 +20,7 @@ ul {
 }
 .intro {
 	width: 100%;
-	background-color: #56BAEC;
+	/*background-color: #56BAEC;*/
 	text-align: center;
 }
 nav li {
@@ -42,11 +42,13 @@ nav li:last-of-type {
 }  
 
 .info { 
-	background-color: #B0E57C;
+	/*background-color: #E4F1C2;*/
 	font-size: 24px;
 	text-align: center; 
 }
 .blog {
-	background-color: #FFAEAE;
-	text-align: center;
+	
+}
+.emailbutton {
+	margin-bottom: 10px
 }
